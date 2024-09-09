@@ -1,0 +1,837 @@
+Log file created/initialized at: Sun Sep 08 18:05:42 2024
+[Sun Sep 08 18:06:16 2024]::: MAIN::MYSQL::Connection Failed
+Log file created/initialized at: Sun Sep 08 18:05:42 2024
+[Sun Sep 08 18:16:31 2024]::: MAIN::MYSQL::Connection Failed
+Log file created/initialized at: Sun Sep 08 18:16:09 2024
+[Sun Sep 08 18:19:34 2024]::: MAIN::MYSQL::Connection Failed
+Log file created/initialized at: Sun Sep 08 18:50:54 2024
+[Sun Sep 08 18:58:59 2024]::[MAIN] ::MYSQL::Connection Failed
+Log file created/initialized at: Sun Sep 08 18:50:54 2024
+[Sun Sep 08 19:00:02 2024]::[MAIN] ::MYSQL::Connection Failed
+Log file created/initialized at: Sun Sep 08 18:50:54 2024
+[Sun Sep 08 19:00:16 2024]::[MAIN] Sign-in failed. User ID not found [12ajf]
+Log file created/initialized at: Sun Sep 08 18:50:54 2024
+[Sun Sep 08 19:04:26 2024]::[MAIN] Sign-in failed. User ID not found [23dsa]
+Log file created/initialized at: Sun Sep 08 18:50:54 2024
+[Sun Sep 08 19:06:39 2024]::[MAIN] Sign-in failed. User ID not found [3242]
+Log file created/initialized at: Sun Sep 08 18:50:54 2024
+[Sun Sep 08 19:27:40 2024]::[MAIN] ::MYSQL::Connection Failed
+Log file created/initialized at: Sun Sep 08 18:50:54 2024
+[Sun Sep 08 19:29:12 2024]::[MAIN] ::MYSQL::Connection Failed
+Log file created/initialized at: Sun Sep 08 18:50:54 2024
+[Sun Sep 08 19:29:56 2024]::[MAIN] ::MYSQL::Connection Failed
+Log file created/initialized at: Sun Sep 08 18:50:54 2024
+[Sun Sep 08 19:30:32 2024]::[MAIN] ::MYSQL::Connection Failed
+Log file created/initialized at: Sun Sep 08 18:50:54 2024
+[Sun Sep 08 19:31:15 2024]::[MAIN] ::MYSQL::Connection Failed
+Log file created/initialized at: Sun Sep 08 18:50:54 2024
+[Sun Sep 08 19:31:59 2024]::[MAIN] ::MYSQL::Connection Failed
+Log file created/initialized at: Sun Sep 08 18:50:54 2024
+[Sun Sep 08 19:32:14 2024]::[MAIN] ::MYSQL::Connection Failed
+Log file created/initialized at: Sun Sep 08 18:50:54 2024
+[Sun Sep 08 19:33:59 2024]::[MAIN] ::MYSQL::Connection Failed
+Log file created/initialized at: Sun Sep 08 19:37:02 2024
+[Sun Sep 08 19:41:30 2024]::[MAIN] ::MYSQL::Connection Failed
+Log file created/initialized at: Sun Sep 08 19:43:09 2024
+[Sun Sep 08 19:44:03 2024]::[MAIN] ::MYSQL::Connection Failed
+Log file created/initialized at: Sun Sep 08 19:45:24 2024
+[Sun Sep 08 19:45:41 2024]::[MAIN] ::MYSQL::Connection Failed
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 19:49:02 2024]::[MYSQL] MySQL: real connect: Error: Can't connect to MySQL server on 'localhost' (10061)
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 19:50:07 2024]::[MYSQL] Can't connect to MySQL server on 'localhost' (10061)
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 19:51:25 2024]::[MYSQL] MySQL: real connect: Error: Can't connect to MySQL server on 'localhost' (10061)
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 20:10:54 2024]::[MYSQL_CONN] ::connect_db::mysql_real_connect() Error: Can't connect to MySQL server on 'localhost' (10061)
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 20:11:39 2024]::[MAIN] Sign-in successful with user id [admin]
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 20:13:43 2024]::[MAIN] Sign-in successful with user id [admin]
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 20:22:20 2024]::[MAIN] Sign-in successful with user id [admin]
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 20:50:31 2024]::[MAIN] Sign-in successful with user id [admin]
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 20:52:08 2024]::[MAIN] Sign-in successful with user id [admin]
+[Sun Sep 08 20:52:12 2024]::[MAIN] +----+----------------------------------+
+| Id | Name            | Age |  User ID |
++----+----------------------------------+
+
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 21:06:45 2024]::[MAIN] Sign-in successful with user id [admin]
+[Sun Sep 08 21:06:46 2024]::[MAIN] 
++----+----------------------------------+
+| Id | Name            | Age |  User ID |
++----+----------------------------------+
+
+[Sun Sep 08 21:06:46 2024]::[MAIN] | 1  | Julia           | 30  | 1123     |
+| 2  | Hanshin         | 30  | 345      |
+| 3  | Andrei          | 30  | xyz      |
+| 4  | Bambi           | 30  | def      |
+| 5  | Yhuan           | 30  | abc      |
+| 6  | Yhuna           | 30  | 9876     |
+| 7  | Yhuni           | 30  | 1234     |
+
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 21:12:54 2024]::[MAIN] Sign-in successful with user id [admin]
+[Sun Sep 08 21:12:54 2024]::[MAIN] handleAdminMenu::printing list of users
+[Sun Sep 08 21:12:54 2024]::[MAIN] 
++----+----------------------------------+
+| Id | Name            | Age |  User ID |
++----+----------------------------------+
+| 1  | Julia           | 30  | 1123     |
+| 2  | Hanshin         | 30  | 345      |
+| 3  | Andrei          | 30  | xyz      |
+| 4  | Bambi           | 30  | def      |
+| 5  | Yhuan           | 30  | abc      |
+| 6  | Yhuna           | 30  | 9876     |
+| 7  | Yhuni           | 30  | 1234     |
+
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 21:15:33 2024]::[MAIN] Sign-in successful with user id [admin]
+[Sun Sep 08 21:15:34 2024]::[MAIN] handleAdminMenu::printing list of users
+[Sun Sep 08 21:15:34 2024]::[MAIN] 
++----+----------------------------------+
+| Id | Name            | Age |  User ID |
++----+----------------------------------+
+| 1  | Julia           | 30  | 1123     |
+| 2  | Hanshin         | 30  | 345      |
+| 3  | Andrei          | 30  | xyz      |
+| 4  | Bambi           | 30  | def      |
+| 5  | Yhuan           | 30  | abc      |
+| 6  | Yhuna           | 30  | 9876     |
+| 7  | Yhuni           | 30  | 1234     |
+
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 21:22:11 2024]::[MAIN] Sign-in successful with user id [admin]
+[Sun Sep 08 21:22:15 2024]::[MAIN] No record found for user id [23]
+
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 21:35:51 2024]::[MAIN] Sign-in successful with user id [admin]
+[Sun Sep 08 21:35:56 2024]::[MAIN] No trade records found for user id [2]
+
+[Sun Sep 08 21:36:05 2024]::[MAIN] handleAdminMenu::printing list of trades by user id [1123]
+[Sun Sep 08 21:36:05 2024]::[MAIN]  SMO    | SELL   | 311.00       | 2024-09-07 19:00:12  |
+| 13 | 89     | WXA    | BOUGHT | 685.00       | 2024-09-07 20:42:11  |
+| 14 | 92     | DHN    | BOUGHT | 464.00       | 2024-09-07 21:12:09  |
+| 15 | 15     | ATM    | BOUGHT | 444.00       | 2024-09-07 21:18:25  |
+
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 21:38:44 2024]::[MAIN] Sign-in successful with user id [admin]
+[Sun Sep 08 21:38:46 2024]::[MAIN] handleAdminMenu::printing list of users
+[Sun Sep 08 21:38:46 2024]::[MAIN] 
++----+----------------------------------+
+| Id | Name            | Age |  User ID |
++----+----------------------------------+
+Pb^| 1  | Julia           | 30  | 1123     |
+| 2  | Hanshin         | 30  | 345      |
+| 3  | Andrei          | 30  | xyz      |
+| 4  | Bambi           | 30  | def      |
+| 5  | Yhuan           | 30  | abc      |
+| 6  | Yhuna           | 30  | 9876     |
+| 7  | Yhuni           | 30  | 1234     |
+
+[Sun Sep 08 21:39:33 2024]::[MAIN] No trade records found for user id [2]
+[Sun Sep 08 21:39:43 2024]::[MAIN] handleAdminMenu::printing list of trades by user id [1123]
+[Sun Sep 08 21:39:43 2024]::[MAIN] Pb^| 1  | Julia           | 30  | 1123     |
+| 2  | Hanshin         | 30  | 345      |
+| 3  | Andrei          | 30  | xyz      |
+| 4  | Bambi           | 30  | def      |
+| 5  | Yhuan           | 30  | abc      |
+| 6  | Yhuna           | 30  | 9876     |
+| 7  | Yhuni           | 30  | 1234     |
+
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 21:46:51 2024]::[MAIN] Sign-in successful with user id [1123]
+[Sun Sep 08 21:46:58 2024]::[MAIN] Sign-in successful with user id [admin]
+[Sun Sep 08 21:47:05 2024]::[MAIN] handleAdminMenu::printing list of trades by user id [1123]
+[Sun Sep 08 21:47:05 2024]::[MAIN] 
++----+----------------------------------------------------------------+
+| Id | Shares | Symbol |  Order | Total Amount | Date                 |
++----+----------------------------------------------------------------+
+| 1  | 14     | PRV    | BOUGHT | 942.00       | 2024-09-07 18:21:02  |
+| 2  | 95     | PNT    | BOUGHT | 1000.00      | 2024-09-07 18:22:32  |
+| 3  | 83     | MBU    | BOUGHT | 600.00       | 2024-09-07 18:25:34  |
+| 4  | 51     | UUE    | BOUGHT | 343.00       | 2024-09-07 18:28:25  |
+| 5  | 26     | PEW    | BOUGHT | 799.00       | 2024-09-07 18:28:28  |
+| 6  | 50     | SIC    | SOLD   | 566.00       | 2024-09-07 18:28:29  |
+| 7  | 55     | JZI    | SOLD   | 455.00       | 2024-09-07 18:28:30  |
+| 8  | 50     | YOG    | BOUGHT | 511.00       | 2024-09-07 18:33:39  |
+| 9  | 89     | DNJ    | SOLD   | 234.00       | 2024-09-07 18:33:43  |
+| 10 | 12     | OEC    | SOLD   | 532.00       | 2024-09-07 18:34:05  |
+| 11 | 41     | CMP    | SELL   | 909.00       | 2024-09-07 18:55:39  |
+| 12 | 56     | SMO    | SELL   | 311.00       | 2024-09-07 19:00:12  |
+| 13 | 89     | WXA    | BOUGHT | 685.00       | 2024-09-07 20:42:11  |
+| 14 | 92     | DHN    | BOUGHT | 464.00       | 2024-09-07 21:12:09  |
+| 15 | 15     | ATM    | BOUGHT | 444.00       | 2024-09-07 21:18:25  |
+
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 21:49:05 2024]::[MAIN] Sign-in successful with user id [admin]
+[Sun Sep 08 21:49:06 2024]::[MAIN] handleAdminMenu::printing list of users
+[Sun Sep 08 21:49:06 2024]::[MAIN] 
+[Sun Sep 08 21:49:09 2024]::[MAIN] handleAdminMenu::printing list of users
+[Sun Sep 08 21:49:09 2024]::[MAIN] 
+[Sun Sep 08 21:49:11 2024]::[MAIN] handleAdminMenu::printing list of users
+[Sun Sep 08 21:49:11 2024]::[MAIN] 
+[Sun Sep 08 21:49:13 2024]::[MAIN] handleAdminMenu::printing list of users
+[Sun Sep 08 21:49:13 2024]::[MAIN] 
+[Sun Sep 08 21:49:22 2024]::[MAIN] handleAdminMenu::printing list of trades by user id [1123]
+[Sun Sep 08 21:49:22 2024]::[MAIN] 
++----+----------------------------------------------------------------+
+| Id | Shares | Symbol |  Order | Total Amount | Date                 |
++----+----------------------------------------------------------------+
+| 1  | 14     | PRV    | BOUGHT | 942.00       | 2024-09-07 18:21:02  |
+| 2  | 95     | PNT    | BOUGHT | 1000.00      | 2024-09-07 18:22:32  |
+| 3  | 83     | MBU    | BOUGHT | 600.00       | 2024-09-07 18:25:34  |
+| 4  | 51     | UUE    | BOUGHT | 343.00       | 2024-09-07 18:28:25  |
+| 5  | 26     | PEW    | BOUGHT | 799.00       | 2024-09-07 18:28:28  |
+| 6  | 50     | SIC    | SOLD   | 566.00       | 2024-09-07 18:28:29  |
+| 7  | 55     | JZI    | SOLD   | 455.00       | 2024-09-07 18:28:30  |
+| 8  | 50     | YOG    | BOUGHT | 511.00       | 2024-09-07 18:33:39  |
+| 9  | 89     | DNJ    | SOLD   | 234.00       | 2024-09-07 18:33:43  |
+| 10 | 12     | OEC    | SOLD   | 532.00       | 2024-09-07 18:34:05  |
+| 11 | 41     | CMP    | SELL   | 909.00       | 2024-09-07 18:55:39  |
+| 12 | 56     | SMO    | SELL   | 311.00       | 2024-09-07 19:00:12  |
+| 13 | 89     | WXA    | BOUGHT | 685.00       | 2024-09-07 20:42:11  |
+| 14 | 92     | DHN    | BOUGHT | 464.00       | 2024-09-07 21:12:09  |
+| 15 | 15     | ATM    | BOUGHT | 444.00       | 2024-09-07 21:18:25  |
+
+[Sun Sep 08 21:49:26 2024]::[MAIN] handleAdminMenu::printing list of trades by user id [1123]
+[Sun Sep 08 21:49:26 2024]::[MAIN] 
++----+----------------------------------------------------------------+
+| Id | Shares | Symbol |  Order | Total Amount | Date                 |
++----+----------------------------------------------------------------+
+| 1  | 14     | PRV    | BOUGHT | 942.00       | 2024-09-07 18:21:02  |
+| 2  | 95     | PNT    | BOUGHT | 1000.00      | 2024-09-07 18:22:32  |
+| 3  | 83     | MBU    | BOUGHT | 600.00       | 2024-09-07 18:25:34  |
+| 4  | 51     | UUE    | BOUGHT | 343.00       | 2024-09-07 18:28:25  |
+| 5  | 26     | PEW    | BOUGHT | 799.00       | 2024-09-07 18:28:28  |
+| 6  | 50     | SIC    | SOLD   | 566.00       | 2024-09-07 18:28:29  |
+| 7  | 55     | JZI    | SOLD   | 455.00       | 2024-09-07 18:28:30  |
+| 8  | 50     | YOG    | BOUGHT | 511.00       | 2024-09-07 18:33:39  |
+| 9  | 89     | DNJ    | SOLD   | 234.00       | 2024-09-07 18:33:43  |
+| 10 | 12     | OEC    | SOLD   | 532.00       | 2024-09-07 18:34:05  |
+| 11 | 41     | CMP    | SELL   | 909.00       | 2024-09-07 18:55:39  |
+| 12 | 56     | SMO    | SELL   | 311.00       | 2024-09-07 19:00:12  |
+| 13 | 89     | WXA    | BOUGHT | 685.00       | 2024-09-07 20:42:11  |
+| 14 | 92     | DHN    | BOUGHT | 464.00       | 2024-09-07 21:12:09  |
+| 15 | 15     | ATM    | BOUGHT | 444.00       | 2024-09-07 21:18:25  |
+
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 22:33:18 2024]::[MAIN] Sign-in successful with user id [admin]
+[Sun Sep 08 22:33:20 2024]::[MAIN] handleAdminMenu::printing list of users
+[Sun Sep 08 22:33:20 2024]::[MAIN] 
++----+----------------------------------+
+| Id | Name            | Age |  User ID |
++----+----------------------------------+
+| 1  | Julia           | 30  | 1123     |
+| 2  | Hanshin         | 30  | 345      |
+| 3  | Andrei          | 30  | xyz      |
+| 4  | Bambi           | 30  | def      |
+| 5  | Yhuan           | 30  | abc      |
+| 6  | Yhuna           | 30  | 9876     |
+| 7  | Yhuni           | 30  | 1234     |
+
+[Sun Sep 08 22:33:29 2024]::[MAIN] No trade records found for user id [345]
+[Sun Sep 08 22:35:11 2024]::[MAIN] handleAdminMenu::printing list of users
+[Sun Sep 08 22:35:11 2024]::[MAIN] 
++----+----------------------------------+
+| Id | Name            | Age |  User ID |
++----+----------------------------------+
+| 1  | Julia           | 30  | 1123     |
+| 2  | Hanshin         | 30  | 345      |
+| 3  | Andrei          | 30  | xyz      |
+| 4  | Bambi           | 30  | def      |
+| 5  | Yhuan           | 30  | abc      |
+| 6  | Yhuna           | 30  | 9876     |
+| 7  | Yhuni           | 30  | 1234     |
+
+[Sun Sep 08 22:35:17 2024]::[MAIN] No trade records found for user id [xyz]
+[Sun Sep 08 22:36:49 2024]::[MAIN] handleAdminMenu::printing list of trades by user id [1123]
+[Sun Sep 08 22:36:49 2024]::[MAIN] 
++----+----------------------------------------------------------------+
+| Id | Shares | Symbol |  Order | Total Amount | Date                 |
++----+----------------------------------------------------------------+
+| 1  | 14     | PRV    | BOUGHT | 942.00       | 2024-09-07 18:21:02  |
+| 2  | 95     | PNT    | BOUGHT | 1000.00      | 2024-09-07 18:22:32  |
+| 3  | 83     | MBU    | BOUGHT | 600.00       | 2024-09-07 18:25:34  |
+| 4  | 51     | UUE    | BOUGHT | 343.00       | 2024-09-07 18:28:25  |
+| 5  | 26     | PEW    | BOUGHT | 799.00       | 2024-09-07 18:28:28  |
+| 6  | 50     | SIC    | SOLD   | 566.00       | 2024-09-07 18:28:29  |
+| 7  | 55     | JZI    | SOLD   | 455.00       | 2024-09-07 18:28:30  |
+| 8  | 50     | YOG    | BOUGHT | 511.00       | 2024-09-07 18:33:39  |
+| 9  | 89     | DNJ    | SOLD   | 234.00       | 2024-09-07 18:33:43  |
+| 10 | 12     | OEC    | SOLD   | 532.00       | 2024-09-07 18:34:05  |
+| 11 | 41     | CMP    | SELL   | 909.00       | 2024-09-07 18:55:39  |
+| 12 | 56     | SMO    | SELL   | 311.00       | 2024-09-07 19:00:12  |
+| 13 | 89     | WXA    | BOUGHT | 685.00       | 2024-09-07 20:42:11  |
+| 14 | 92     | DHN    | BOUGHT | 464.00       | 2024-09-07 21:12:09  |
+| 15 | 15     | ATM    | BOUGHT | 444.00       | 2024-09-07 21:18:25  |
+
+[Sun Sep 08 22:37:27 2024]::[MAIN] handleAdminMenu::printing list of trades by user id [1123]
+[Sun Sep 08 22:37:27 2024]::[MAIN] 
++----+----------------------------------------------------------------+
+| Id | Shares | Symbol |  Order | Total Amount | Date                 |
++----+----------------------------------------------------------------+
+| 1  | 14     | PRV    | BOUGHT | 942.00       | 2024-09-07 18:21:02  |
+| 2  | 95     | PNT    | BOUGHT | 1000.00      | 2024-09-07 18:22:32  |
+| 3  | 83     | MBU    | BOUGHT | 600.00       | 2024-09-07 18:25:34  |
+| 4  | 51     | UUE    | BOUGHT | 343.00       | 2024-09-07 18:28:25  |
+| 5  | 26     | PEW    | BOUGHT | 799.00       | 2024-09-07 18:28:28  |
+| 6  | 50     | SIC    | SOLD   | 566.00       | 2024-09-07 18:28:29  |
+| 7  | 55     | JZI    | SOLD   | 455.00       | 2024-09-07 18:28:30  |
+| 8  | 50     | YOG    | BOUGHT | 511.00       | 2024-09-07 18:33:39  |
+| 9  | 89     | DNJ    | SOLD   | 234.00       | 2024-09-07 18:33:43  |
+| 10 | 12     | OEC    | SOLD   | 532.00       | 2024-09-07 18:34:05  |
+| 11 | 41     | CMP    | SELL   | 909.00       | 2024-09-07 18:55:39  |
+| 12 | 56     | SMO    | SELL   | 311.00       | 2024-09-07 19:00:12  |
+| 13 | 89     | WXA    | BOUGHT | 685.00       | 2024-09-07 20:42:11  |
+| 14 | 92     | DHN    | BOUGHT | 464.00       | 2024-09-07 21:12:09  |
+| 15 | 15     | ATM    | BOUGHT | 444.00       | 2024-09-07 21:18:25  |
+
+[Sun Sep 08 22:37:38 2024]::[MAIN] handleEditTrade::printing details of trade:[14] by user id [1123]
+[Sun Sep 08 22:37:38 2024]::[MAIN] 
++----+----------------------------------------------------------------+
+| Id | Shares | Symbol |  Order | Total Amount | Date                 |
++----+----------------------------------------------------------------+
+| 14 | 92     | DHN    | BOUGHT | 464.00       | 2024-09-07 21:12:09  |
+
+[Sun Sep 08 22:39:29 2024]::[MAIN] handleEditTrade::update successfull for trade:[14] by user id [1123]
+[Sun Sep 08 22:39:29 2024]::[MAIN] handleEditTrade::printing details of new update of trade:[14] by user id [1123]
+[Sun Sep 08 22:39:29 2024]::[MAIN] 
++----+----------------------------------------------------------------+
+| Id | Shares | Symbol |  Order | Total Amount | Date                 |
++----+----------------------------------------------------------------+
+| 14 | 12     | DHN    | BOUGHT | 464.00       | 2024-09-07 21:12:09  |
+
+[Sun Sep 08 22:42:53 2024]::[MAIN] handleEditTrade::update successfull for trade:[14] by user id [1123]
+[Sun Sep 08 22:42:53 2024]::[MAIN] handleEditTrade::printing details of new update of trade:[14] by user id [1123]
+[Sun Sep 08 22:42:53 2024]::[MAIN] 
++----+----------------------------------------------------------------+
+| Id | Shares | Symbol |  Order | Total Amount | Date                 |
++----+----------------------------------------------------------------+
+| 14 | 12     | DHN    | BOUGHT | 12423.00     | 2024-09-07 21:12:09  |
+
+[Sun Sep 08 22:43:25 2024]::[MAIN] handleAdminMenu::printing list of trades by user id [1123]
+[Sun Sep 08 22:43:25 2024]::[MAIN] 
++----+----------------------------------------------------------------+
+| Id | Shares | Symbol |  Order | Total Amount | Date                 |
++----+----------------------------------------------------------------+
+| 1  | 14     | PRV    | BOUGHT | 942.00       | 2024-09-07 18:21:02  |
+| 2  | 95     | PNT    | BOUGHT | 1000.00      | 2024-09-07 18:22:32  |
+| 3  | 83     | MBU    | BOUGHT | 600.00       | 2024-09-07 18:25:34  |
+| 4  | 51     | UUE    | BOUGHT | 343.00       | 2024-09-07 18:28:25  |
+| 5  | 26     | PEW    | BOUGHT | 799.00       | 2024-09-07 18:28:28  |
+| 6  | 50     | SIC    | SOLD   | 566.00       | 2024-09-07 18:28:29  |
+| 7  | 55     | JZI    | SOLD   | 455.00       | 2024-09-07 18:28:30  |
+| 8  | 50     | YOG    | BOUGHT | 511.00       | 2024-09-07 18:33:39  |
+| 9  | 89     | DNJ    | SOLD   | 234.00       | 2024-09-07 18:33:43  |
+| 10 | 12     | OEC    | SOLD   | 532.00       | 2024-09-07 18:34:05  |
+| 11 | 41     | CMP    | SELL   | 909.00       | 2024-09-07 18:55:39  |
+| 12 | 56     | SMO    | SELL   | 311.00       | 2024-09-07 19:00:12  |
+| 13 | 89     | WXA    | BOUGHT | 685.00       | 2024-09-07 20:42:11  |
+| 14 | 12     | DHN    | BOUGHT | 12423.00     | 2024-09-07 21:12:09  |
+| 15 | 15     | ATM    | BOUGHT | 444.00       | 2024-09-07 21:18:25  |
+
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 22:45:46 2024]::[MAIN] Sign-in successful with user id [admin]
+[Sun Sep 08 22:45:50 2024]::[MAIN] handleAdminMenu::printing list of trades by user id [1123]
+[Sun Sep 08 22:45:50 2024]::[MAIN] 
++----+----------------------------------------------------------------+
+| Id | Shares | Symbol |  Order | Total Amount | Date                 |
++----+----------------------------------------------------------------+
+| 1  | 14     | PRV    | BOUGHT | 942.00       | 2024-09-07 18:21:02  |
+| 2  | 95     | PNT    | BOUGHT | 1000.00      | 2024-09-07 18:22:32  |
+| 3  | 83     | MBU    | BOUGHT | 600.00       | 2024-09-07 18:25:34  |
+| 4  | 51     | UUE    | BOUGHT | 343.00       | 2024-09-07 18:28:25  |
+| 5  | 26     | PEW    | BOUGHT | 799.00       | 2024-09-07 18:28:28  |
+| 6  | 50     | SIC    | SOLD   | 566.00       | 2024-09-07 18:28:29  |
+| 7  | 55     | JZI    | SOLD   | 455.00       | 2024-09-07 18:28:30  |
+| 8  | 50     | YOG    | BOUGHT | 511.00       | 2024-09-07 18:33:39  |
+| 9  | 89     | DNJ    | SOLD   | 234.00       | 2024-09-07 18:33:43  |
+| 10 | 12     | OEC    | SOLD   | 532.00       | 2024-09-07 18:34:05  |
+| 11 | 41     | CMP    | SELL   | 909.00       | 2024-09-07 18:55:39  |
+| 12 | 56     | SMO    | SELL   | 311.00       | 2024-09-07 19:00:12  |
+| 13 | 89     | WXA    | BOUGHT | 685.00       | 2024-09-07 20:42:11  |
+| 14 | 12     | DHN    | BOUGHT | 12423.00     | 2024-09-07 21:12:09  |
+| 15 | 15     | ATM    | BOUGHT | 444.00       | 2024-09-07 21:18:25  |
+
+[Sun Sep 08 22:46:01 2024]::[MAIN] handleEditTrade::printing details of trade:[2] by user id [1123]
+[Sun Sep 08 22:46:01 2024]::[MAIN] 
++----+----------------------------------------------------------------+
+| Id | Shares | Symbol |  Order | Total Amount | Date                 |
++----+----------------------------------------------------------------+
+| 2  | 95     | PNT    | BOUGHT | 1000.00      | 2024-09-07 18:22:32  |
+
+[Sun Sep 08 22:46:19 2024]::[MAIN] handleEditTrade::update successfull for trade:[2] by user id [1123]
+[Sun Sep 08 22:46:19 2024]::[MAIN] handleEditTrade::printing details of new update of trade:[2] by user id [1123]
+[Sun Sep 08 22:46:19 2024]::[MAIN] 
++----+----------------------------------------------------------------+
+| Id | Shares | Symbol |  Order | Total Amount | Date                 |
++----+----------------------------------------------------------------+
+| 2  | 23     | PNT    | BOUGHT | 1000.00      | 2024-09-07 18:22:32  |
+
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 22:48:12 2024]::[MAIN] Sign-in successful with user id [admin]
+[Sun Sep 08 22:48:19 2024]::[MAIN] handleAdminMenu::printing list of trades by user id [1123]
+[Sun Sep 08 22:48:19 2024]::[MAIN] 
++----+----------------------------------------------------------------+
+| Id | Shares | Symbol |  Order | Total Amount | Date                 |
++----+----------------------------------------------------------------+
+| 1  | 14     | PRV    | BOUGHT | 942.00       | 2024-09-07 18:21:02  |
+| 2  | 23     | PNT    | BOUGHT | 1000.00      | 2024-09-07 18:22:32  |
+| 3  | 83     | MBU    | BOUGHT | 600.00       | 2024-09-07 18:25:34  |
+| 4  | 51     | UUE    | BOUGHT | 343.00       | 2024-09-07 18:28:25  |
+| 5  | 26     | PEW    | BOUGHT | 799.00       | 2024-09-07 18:28:28  |
+| 6  | 50     | SIC    | SOLD   | 566.00       | 2024-09-07 18:28:29  |
+| 7  | 55     | JZI    | SOLD   | 455.00       | 2024-09-07 18:28:30  |
+| 8  | 50     | YOG    | BOUGHT | 511.00       | 2024-09-07 18:33:39  |
+| 9  | 89     | DNJ    | SOLD   | 234.00       | 2024-09-07 18:33:43  |
+| 10 | 12     | OEC    | SOLD   | 532.00       | 2024-09-07 18:34:05  |
+| 11 | 41     | CMP    | SELL   | 909.00       | 2024-09-07 18:55:39  |
+| 12 | 56     | SMO    | SELL   | 311.00       | 2024-09-07 19:00:12  |
+| 13 | 89     | WXA    | BOUGHT | 685.00       | 2024-09-07 20:42:11  |
+| 14 | 12     | DHN    | BOUGHT | 12423.00     | 2024-09-07 21:12:09  |
+| 15 | 15     | ATM    | BOUGHT | 444.00       | 2024-09-07 21:18:25  |
+
+[Sun Sep 08 22:48:30 2024]::[MAIN] handleEditTrade::No trade records found for user id [1123]
+[Sun Sep 08 22:48:43 2024]::[MAIN] No trade records found for user id [11]
+[Sun Sep 08 22:48:56 2024]::[MAIN] handleAdminMenu::printing list of trades by user id [1123]
+[Sun Sep 08 22:48:56 2024]::[MAIN] 
++----+----------------------------------------------------------------+
+| Id | Shares | Symbol |  Order | Total Amount | Date                 |
++----+----------------------------------------------------------------+
+| 1  | 14     | PRV    | BOUGHT | 942.00       | 2024-09-07 18:21:02  |
+| 2  | 23     | PNT    | BOUGHT | 1000.00      | 2024-09-07 18:22:32  |
+| 3  | 83     | MBU    | BOUGHT | 600.00       | 2024-09-07 18:25:34  |
+| 4  | 51     | UUE    | BOUGHT | 343.00       | 2024-09-07 18:28:25  |
+| 5  | 26     | PEW    | BOUGHT | 799.00       | 2024-09-07 18:28:28  |
+| 6  | 50     | SIC    | SOLD   | 566.00       | 2024-09-07 18:28:29  |
+| 7  | 55     | JZI    | SOLD   | 455.00       | 2024-09-07 18:28:30  |
+| 8  | 50     | YOG    | BOUGHT | 511.00       | 2024-09-07 18:33:39  |
+| 9  | 89     | DNJ    | SOLD   | 234.00       | 2024-09-07 18:33:43  |
+| 10 | 12     | OEC    | SOLD   | 532.00       | 2024-09-07 18:34:05  |
+| 11 | 41     | CMP    | SELL   | 909.00       | 2024-09-07 18:55:39  |
+| 12 | 56     | SMO    | SELL   | 311.00       | 2024-09-07 19:00:12  |
+| 13 | 89     | WXA    | BOUGHT | 685.00       | 2024-09-07 20:42:11  |
+| 14 | 12     | DHN    | BOUGHT | 12423.00     | 2024-09-07 21:12:09  |
+| 15 | 15     | ATM    | BOUGHT | 444.00       | 2024-09-07 21:18:25  |
+
+[Sun Sep 08 22:49:04 2024]::[MAIN] handleEditTrade::printing details of trade:[10] by user id [1123]
+[Sun Sep 08 22:49:04 2024]::[MAIN] 
++----+----------------------------------------------------------------+
+| Id | Shares | Symbol |  Order | Total Amount | Date                 |
++----+----------------------------------------------------------------+
+| 10 | 12     | OEC    | SOLD   | 532.00       | 2024-09-07 18:34:05  |
+
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 22:49:54 2024]::[MAIN] Sign-in successful with user id [admin]
+[Sun Sep 08 22:49:57 2024]::[MAIN] handleAdminMenu::printing list of trades by user id [1123]
+[Sun Sep 08 22:49:57 2024]::[MAIN] 
++----+----------------------------------------------------------------+
+| Id | Shares | Symbol |  Order | Total Amount | Date                 |
++----+----------------------------------------------------------------+
+| 1  | 14     | PRV    | BOUGHT | 942.00       | 2024-09-07 18:21:02  |
+| 2  | 23     | PNT    | BOUGHT | 1000.00      | 2024-09-07 18:22:32  |
+| 3  | 83     | MBU    | BOUGHT | 600.00       | 2024-09-07 18:25:34  |
+| 4  | 51     | UUE    | BOUGHT | 343.00       | 2024-09-07 18:28:25  |
+| 5  | 26     | PEW    | BOUGHT | 799.00       | 2024-09-07 18:28:28  |
+| 6  | 50     | SIC    | SOLD   | 566.00       | 2024-09-07 18:28:29  |
+| 7  | 55     | JZI    | SOLD   | 455.00       | 2024-09-07 18:28:30  |
+| 8  | 50     | YOG    | BOUGHT | 511.00       | 2024-09-07 18:33:39  |
+| 9  | 89     | DNJ    | SOLD   | 234.00       | 2024-09-07 18:33:43  |
+| 10 | 12     | OEC    | SOLD   | 532.00       | 2024-09-07 18:34:05  |
+| 11 | 41     | CMP    | SELL   | 909.00       | 2024-09-07 18:55:39  |
+| 12 | 56     | SMO    | SELL   | 311.00       | 2024-09-07 19:00:12  |
+| 13 | 89     | WXA    | BOUGHT | 685.00       | 2024-09-07 20:42:11  |
+| 14 | 12     | DHN    | BOUGHT | 12423.00     | 2024-09-07 21:12:09  |
+| 15 | 15     | ATM    | BOUGHT | 444.00       | 2024-09-07 21:18:25  |
+
+[Sun Sep 08 22:50:05 2024]::[MAIN] handleAdminMenu::printing list of trades by user id [1123]
+[Sun Sep 08 22:50:05 2024]::[MAIN] 
++----+----------------------------------------------------------------+
+| Id | Shares | Symbol |  Order | Total Amount | Date                 |
++----+----------------------------------------------------------------+
+| 1  | 14     | PRV    | BOUGHT | 942.00       | 2024-09-07 18:21:02  |
+| 2  | 23     | PNT    | BOUGHT | 1000.00      | 2024-09-07 18:22:32  |
+| 3  | 83     | MBU    | BOUGHT | 600.00       | 2024-09-07 18:25:34  |
+| 4  | 51     | UUE    | BOUGHT | 343.00       | 2024-09-07 18:28:25  |
+| 5  | 26     | PEW    | BOUGHT | 799.00       | 2024-09-07 18:28:28  |
+| 6  | 50     | SIC    | SOLD   | 566.00       | 2024-09-07 18:28:29  |
+| 7  | 55     | JZI    | SOLD   | 455.00       | 2024-09-07 18:28:30  |
+| 8  | 50     | YOG    | BOUGHT | 511.00       | 2024-09-07 18:33:39  |
+| 9  | 89     | DNJ    | SOLD   | 234.00       | 2024-09-07 18:33:43  |
+| 10 | 12     | OEC    | SOLD   | 532.00       | 2024-09-07 18:34:05  |
+| 11 | 41     | CMP    | SELL   | 909.00       | 2024-09-07 18:55:39  |
+| 12 | 56     | SMO    | SELL   | 311.00       | 2024-09-07 19:00:12  |
+| 13 | 89     | WXA    | BOUGHT | 685.00       | 2024-09-07 20:42:11  |
+| 14 | 12     | DHN    | BOUGHT | 12423.00     | 2024-09-07 21:12:09  |
+| 15 | 15     | ATM    | BOUGHT | 444.00       | 2024-09-07 21:18:25  |
+
+[Sun Sep 08 22:50:16 2024]::[MAIN] handleEditTrade::printing details of trade:[2] by user id [1123]
+[Sun Sep 08 22:50:16 2024]::[MAIN] 
++----+----------------------------------------------------------------+
+| Id | Shares | Symbol |  Order | Total Amount | Date                 |
++----+----------------------------------------------------------------+
+| 2  | 23     | PNT    | BOUGHT | 1000.00      | 2024-09-07 18:22:32  |
+
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 23:14:16 2024]::[MAIN] Sign-in failed. User ID not found [adfs]
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 23:16:53 2024]::[MAIN] Sign-in successful with user id [1123]
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 23:19:38 2024]::[MAIN] Sign-in successful with user id [admin]
+[Sun Sep 08 23:19:52 2024]::[MAIN] Sign-in successful with user id [admin]
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 23:21:06 2024]::[MAIN] Sign-in successful with user id [1123]
+[Sun Sep 08 23:21:32 2024]::[MAIN] Sign-in successful with user id [admin]
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 23:24:28 2024]::[MAIN] Sign-in successful with user id [admin]
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 23:27:18 2024]::[MAIN] Sign-in failed. User ID not found [skadfk]
+[Sun Sep 08 23:27:42 2024]::[MAIN] Sign-in successful with user id [admin]
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 23:28:39 2024]::[MAIN] Sign-in successful with user id [admin]
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 23:29:18 2024]::[MAIN] Sign-in successful with user id [admin]
+[Sun Sep 08 23:29:33 2024]::[MAIN] Sign-in successful with user id [admin]
+[Sun Sep 08 23:29:37 2024]::[MAIN] No trade records found for user id [asd]
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 23:31:05 2024]::[MAIN] Sign-in successful with user id [admin]
+[Sun Sep 08 23:31:24 2024]::[MAIN] handleAdminMenu::Admin Logot
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 23:32:38 2024]::[MAIN] Sign-in successful with user id [admin]
+[Sun Sep 08 23:32:45 2024]::[MAIN] handleAdminMenu::printing list of users
+[Sun Sep 08 23:32:45 2024]::[MAIN] 
++----+----------------------------------+
+| Id | Name            | Age |  User ID |
++----+----------------------------------+
+| 1  | Julia           | 30  | 1123     |
+| 2  | Hanshin         | 30  | 345      |
+| 3  | Andrei          | 30  | xyz      |
+| 4  | Bambi           | 30  | def      |
+| 5  | Yhuan           | 30  | abc      |
+| 6  | Yhuna           | 30  | 9876     |
+| 7  | Yhuni           | 30  | 1234     |
+
+[Sun Sep 08 23:32:49 2024]::[MAIN] handleAdminMenu::Admin Logot
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 23:40:25 2024]::[MAIN] Sign-in successful with user id [admin]
+[Sun Sep 08 23:40:33 2024]::[MAIN] handleAdminMenu::printing list of trades by user id [1123]
+[Sun Sep 08 23:40:33 2024]::[MAIN] 
++----+----------------------------------------------------------------+
+| Id | Shares | Symbol |  Order | Total Amount | Date                 |
++----+----------------------------------------------------------------+
+| 1  | 14     | PRV    | BOUGHT | 942.00       | 2024-09-07 18:21:02  |
+| 2  | 23     | PNT    | BOUGHT | 1000.00      | 2024-09-07 18:22:32  |
+| 3  | 83     | MBU    | BOUGHT | 600.00       | 2024-09-07 18:25:34  |
+| 4  | 51     | UUE    | BOUGHT | 343.00       | 2024-09-07 18:28:25  |
+| 5  | 26     | PEW    | BOUGHT | 799.00       | 2024-09-07 18:28:28  |
+| 6  | 50     | SIC    | SOLD   | 566.00       | 2024-09-07 18:28:29  |
+| 7  | 55     | JZI    | SOLD   | 455.00       | 2024-09-07 18:28:30  |
+| 8  | 50     | YOG    | BOUGHT | 511.00       | 2024-09-07 18:33:39  |
+| 9  | 89     | DNJ    | SOLD   | 234.00       | 2024-09-07 18:33:43  |
+| 10 | 12     | OEC    | SOLD   | 532.00       | 2024-09-07 18:34:05  |
+| 11 | 41     | CMP    | SELL   | 909.00       | 2024-09-07 18:55:39  |
+| 12 | 56     | SMO    | SELL   | 311.00       | 2024-09-07 19:00:12  |
+| 13 | 89     | WXA    | BOUGHT | 685.00       | 2024-09-07 20:42:11  |
+| 14 | 12     | DHN    | BOUGHT | 12423.00     | 2024-09-07 21:12:09  |
+| 15 | 15     | ATM    | BOUGHT | 444.00       | 2024-09-07 21:18:25  |
+
+[Sun Sep 08 23:41:01 2024]::[MAIN] handleAdminMenu::printing list of trades by user id [1123]
+[Sun Sep 08 23:41:01 2024]::[MAIN] 
++----+----------------------------------------------------------------+
+| Id | Shares | Symbol |  Order | Total Amount | Date                 |
++----+----------------------------------------------------------------+
+| 1  | 14     | PRV    | BOUGHT | 942.00       | 2024-09-07 18:21:02  |
+| 2  | 23     | PNT    | BOUGHT | 1000.00      | 2024-09-07 18:22:32  |
+| 3  | 83     | MBU    | BOUGHT | 600.00       | 2024-09-07 18:25:34  |
+| 4  | 51     | UUE    | BOUGHT | 343.00       | 2024-09-07 18:28:25  |
+| 5  | 26     | PEW    | BOUGHT | 799.00       | 2024-09-07 18:28:28  |
+| 6  | 50     | SIC    | SOLD   | 566.00       | 2024-09-07 18:28:29  |
+| 7  | 55     | JZI    | SOLD   | 455.00       | 2024-09-07 18:28:30  |
+| 8  | 50     | YOG    | BOUGHT | 511.00       | 2024-09-07 18:33:39  |
+| 9  | 89     | DNJ    | SOLD   | 234.00       | 2024-09-07 18:33:43  |
+| 10 | 12     | OEC    | SOLD   | 532.00       | 2024-09-07 18:34:05  |
+| 11 | 41     | CMP    | SELL   | 909.00       | 2024-09-07 18:55:39  |
+| 12 | 56     | SMO    | SELL   | 311.00       | 2024-09-07 19:00:12  |
+| 13 | 89     | WXA    | BOUGHT | 685.00       | 2024-09-07 20:42:11  |
+| 14 | 12     | DHN    | BOUGHT | 12423.00     | 2024-09-07 21:12:09  |
+| 15 | 15     | ATM    | BOUGHT | 444.00       | 2024-09-07 21:18:25  |
+
+[Sun Sep 08 23:41:13 2024]::[MAIN] handleAdminMenu::printing list of trades by user id [1123]
+[Sun Sep 08 23:41:13 2024]::[MAIN] 
++----+----------------------------------------------------------------+
+| Id | Shares | Symbol |  Order | Total Amount | Date                 |
++----+----------------------------------------------------------------+
+| 1  | 14     | PRV    | BOUGHT | 942.00       | 2024-09-07 18:21:02  |
+| 2  | 23     | PNT    | BOUGHT | 1000.00      | 2024-09-07 18:22:32  |
+| 3  | 83     | MBU    | BOUGHT | 600.00       | 2024-09-07 18:25:34  |
+| 4  | 51     | UUE    | BOUGHT | 343.00       | 2024-09-07 18:28:25  |
+| 5  | 26     | PEW    | BOUGHT | 799.00       | 2024-09-07 18:28:28  |
+| 6  | 50     | SIC    | SOLD   | 566.00       | 2024-09-07 18:28:29  |
+| 7  | 55     | JZI    | SOLD   | 455.00       | 2024-09-07 18:28:30  |
+| 8  | 50     | YOG    | BOUGHT | 511.00       | 2024-09-07 18:33:39  |
+| 9  | 89     | DNJ    | SOLD   | 234.00       | 2024-09-07 18:33:43  |
+| 10 | 12     | OEC    | SOLD   | 532.00       | 2024-09-07 18:34:05  |
+| 11 | 41     | CMP    | SELL   | 909.00       | 2024-09-07 18:55:39  |
+| 12 | 56     | SMO    | SELL   | 311.00       | 2024-09-07 19:00:12  |
+| 13 | 89     | WXA    | BOUGHT | 685.00       | 2024-09-07 20:42:11  |
+| 14 | 12     | DHN    | BOUGHT | 12423.00     | 2024-09-07 21:12:09  |
+| 15 | 15     | ATM    | BOUGHT | 444.00       | 2024-09-07 21:18:25  |
+
+[Sun Sep 08 23:41:20 2024]::[MAIN] handleEditTrade::No trade records found for user id [1123]
+[Sun Sep 08 23:41:26 2024]::[MAIN] handleAdminMenu::printing list of trades by user id [1123]
+[Sun Sep 08 23:41:26 2024]::[MAIN] 
++----+----------------------------------------------------------------+
+| Id | Shares | Symbol |  Order | Total Amount | Date                 |
++----+----------------------------------------------------------------+
+| 1  | 14     | PRV    | BOUGHT | 942.00       | 2024-09-07 18:21:02  |
+| 2  | 23     | PNT    | BOUGHT | 1000.00      | 2024-09-07 18:22:32  |
+| 3  | 83     | MBU    | BOUGHT | 600.00       | 2024-09-07 18:25:34  |
+| 4  | 51     | UUE    | BOUGHT | 343.00       | 2024-09-07 18:28:25  |
+| 5  | 26     | PEW    | BOUGHT | 799.00       | 2024-09-07 18:28:28  |
+| 6  | 50     | SIC    | SOLD   | 566.00       | 2024-09-07 18:28:29  |
+| 7  | 55     | JZI    | SOLD   | 455.00       | 2024-09-07 18:28:30  |
+| 8  | 50     | YOG    | BOUGHT | 511.00       | 2024-09-07 18:33:39  |
+| 9  | 89     | DNJ    | SOLD   | 234.00       | 2024-09-07 18:33:43  |
+| 10 | 12     | OEC    | SOLD   | 532.00       | 2024-09-07 18:34:05  |
+| 11 | 41     | CMP    | SELL   | 909.00       | 2024-09-07 18:55:39  |
+| 12 | 56     | SMO    | SELL   | 311.00       | 2024-09-07 19:00:12  |
+| 13 | 89     | WXA    | BOUGHT | 685.00       | 2024-09-07 20:42:11  |
+| 14 | 12     | DHN    | BOUGHT | 12423.00     | 2024-09-07 21:12:09  |
+| 15 | 15     | ATM    | BOUGHT | 444.00       | 2024-09-07 21:18:25  |
+
+[Sun Sep 08 23:41:38 2024]::[MAIN] handleEditTrade::No trade records found for user id [1123]
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 23:47:35 2024]::[MAIN] Sign-in successful with user id [admin]
+[Sun Sep 08 23:47:47 2024]::[MAIN] handleAdminMenu::printing list of users
+[Sun Sep 08 23:47:47 2024]::[MAIN] 
++----+----------------------------------+
+| Id | Name            | Age |  User ID |
++----+----------------------------------+
+| 1  | Julia           | 30  | 1123     |
+| 2  | Hanshin         | 30  | 345      |
+| 3  | Andrei          | 30  | xyz      |
+| 4  | Bambi           | 30  | def      |
+| 5  | Yhuan           | 30  | abc      |
+| 6  | Yhuna           | 30  | 9876     |
+| 7  | Yhuni           | 30  | 1234     |
+
+[Sun Sep 08 23:47:55 2024]::[MAIN] No trade records found for user id [asdjka]
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 23:50:39 2024]::[MAIN] Sign-in successful with user id [admin]
+[Sun Sep 08 23:50:49 2024]::[MAIN] No trade records found for user id [asda]
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 23:52:42 2024]::[MAIN] Sign-in successful with user id [admin]
+[Sun Sep 08 23:52:47 2024]::[MAIN] handleAdminMenu::printing list of users
+[Sun Sep 08 23:52:47 2024]::[MAIN] 
++----+----------------------------------+
+| Id | Name            | Age |  User ID |
++----+----------------------------------+
+| 1  | Julia           | 30  | 1123     |
+| 2  | Hanshin         | 30  | 345      |
+| 3  | Andrei          | 30  | xyz      |
+| 4  | Bambi           | 30  | def      |
+| 5  | Yhuan           | 30  | abc      |
+| 6  | Yhuna           | 30  | 9876     |
+| 7  | Yhuni           | 30  | 1234     |
+
+[Sun Sep 08 23:52:54 2024]::[MAIN] No trade records found for user id [adfsd]
+[Sun Sep 08 23:53:02 2024]::[MAIN] No trade records found for user id [sdfdf]
+Log file created/initialized at: Sun Sep 08 19:46:31 2024
+[Sun Sep 08 23:55:17 2024]::[MAIN] Sign-in successful with user id [admin]
+[Sun Sep 08 23:55:24 2024]::[MAIN] No trade records found for user id [alksjd]
+[Sun Sep 08 23:55:33 2024]::[MAIN] handleAdminMenu::printing list of trades by user id [1123]
+[Sun Sep 08 23:55:33 2024]::[MAIN] 
++----+----------------------------------------------------------------+
+| Id | Shares | Symbol |  Order | Total Amount | Date                 |
++----+----------------------------------------------------------------+
+| 1  | 14     | PRV    | BOUGHT | 942.00       | 2024-09-07 18:21:02  |
+| 2  | 23     | PNT    | BOUGHT | 1000.00      | 2024-09-07 18:22:32  |
+| 3  | 83     | MBU    | BOUGHT | 600.00       | 2024-09-07 18:25:34  |
+| 4  | 51     | UUE    | BOUGHT | 343.00       | 2024-09-07 18:28:25  |
+| 5  | 26     | PEW    | BOUGHT | 799.00       | 2024-09-07 18:28:28  |
+| 6  | 50     | SIC    | SOLD   | 566.00       | 2024-09-07 18:28:29  |
+| 7  | 55     | JZI    | SOLD   | 455.00       | 2024-09-07 18:28:30  |
+| 8  | 50     | YOG    | BOUGHT | 511.00       | 2024-09-07 18:33:39  |
+| 9  | 89     | DNJ    | SOLD   | 234.00       | 2024-09-07 18:33:43  |
+| 10 | 12     | OEC    | SOLD   | 532.00       | 2024-09-07 18:34:05  |
+| 11 | 41     | CMP    | SELL   | 909.00       | 2024-09-07 18:55:39  |
+| 12 | 56     | SMO    | SELL   | 311.00       | 2024-09-07 19:00:12  |
+| 13 | 89     | WXA    | BOUGHT | 685.00       | 2024-09-07 20:42:11  |
+| 14 | 12     | DHN    | BOUGHT | 12423.00     | 2024-09-07 21:12:09  |
+| 15 | 15     | ATM    | BOUGHT | 444.00       | 2024-09-07 21:18:25  |
+
+[Sun Sep 08 23:55:49 2024]::[MAIN] handleAdminMenu::printing list of trades by user id [1123]
+[Sun Sep 08 23:55:49 2024]::[MAIN] 
++----+----------------------------------------------------------------+
+| Id | Shares | Symbol |  Order | Total Amount | Date                 |
++----+----------------------------------------------------------------+
+| 1  | 14     | PRV    | BOUGHT | 942.00       | 2024-09-07 18:21:02  |
+| 2  | 23     | PNT    | BOUGHT | 1000.00      | 2024-09-07 18:22:32  |
+| 3  | 83     | MBU    | BOUGHT | 600.00       | 2024-09-07 18:25:34  |
+| 4  | 51     | UUE    | BOUGHT | 343.00       | 2024-09-07 18:28:25  |
+| 5  | 26     | PEW    | BOUGHT | 799.00       | 2024-09-07 18:28:28  |
+| 6  | 50     | SIC    | SOLD   | 566.00       | 2024-09-07 18:28:29  |
+| 7  | 55     | JZI    | SOLD   | 455.00       | 2024-09-07 18:28:30  |
+| 8  | 50     | YOG    | BOUGHT | 511.00       | 2024-09-07 18:33:39  |
+| 9  | 89     | DNJ    | SOLD   | 234.00       | 2024-09-07 18:33:43  |
+| 10 | 12     | OEC    | SOLD   | 532.00       | 2024-09-07 18:34:05  |
+| 11 | 41     | CMP    | SELL   | 909.00       | 2024-09-07 18:55:39  |
+| 12 | 56     | SMO    | SELL   | 311.00       | 2024-09-07 19:00:12  |
+| 13 | 89     | WXA    | BOUGHT | 685.00       | 2024-09-07 20:42:11  |
+| 14 | 12     | DHN    | BOUGHT | 12423.00     | 2024-09-07 21:12:09  |
+| 15 | 15     | ATM    | BOUGHT | 444.00       | 2024-09-07 21:18:25  |
+
+[Sun Sep 08 23:56:09 2024]::[MAIN] handleAdminMenu::printing list of trades by user id [1123]
+[Sun Sep 08 23:56:09 2024]::[MAIN] 
++----+----------------------------------------------------------------+
+| Id | Shares | Symbol |  Order | Total Amount | Date                 |
++----+----------------------------------------------------------------+
+| 1  | 14     | PRV    | BOUGHT | 942.00       | 2024-09-07 18:21:02  |
+| 2  | 23     | PNT    | BOUGHT | 1000.00      | 2024-09-07 18:22:32  |
+| 3  | 83     | MBU    | BOUGHT | 600.00       | 2024-09-07 18:25:34  |
+| 4  | 51     | UUE    | BOUGHT | 343.00       | 2024-09-07 18:28:25  |
+| 5  | 26     | PEW    | BOUGHT | 799.00       | 2024-09-07 18:28:28  |
+| 6  | 50     | SIC    | SOLD   | 566.00       | 2024-09-07 18:28:29  |
+| 7  | 55     | JZI    | SOLD   | 455.00       | 2024-09-07 18:28:30  |
+| 8  | 50     | YOG    | BOUGHT | 511.00       | 2024-09-07 18:33:39  |
+| 9  | 89     | DNJ    | SOLD   | 234.00       | 2024-09-07 18:33:43  |
+| 10 | 12     | OEC    | SOLD   | 532.00       | 2024-09-07 18:34:05  |
+| 11 | 41     | CMP    | SELL   | 909.00       | 2024-09-07 18:55:39  |
+| 12 | 56     | SMO    | SELL   | 311.00       | 2024-09-07 19:00:12  |
+| 13 | 89     | WXA    | BOUGHT | 685.00       | 2024-09-07 20:42:11  |
+| 14 | 12     | DHN    | BOUGHT | 12423.00     | 2024-09-07 21:12:09  |
+| 15 | 15     | ATM    | BOUGHT | 444.00       | 2024-09-07 21:18:25  |
+
+[Sun Sep 08 23:56:21 2024]::[MAIN] handleAdminMenu::printing list of trades by user id [1123]
+[Sun Sep 08 23:56:21 2024]::[MAIN] 
++----+----------------------------------------------------------------+
+| Id | Shares | Symbol |  Order | Total Amount | Date                 |
++----+----------------------------------------------------------------+
+| 1  | 14     | PRV    | BOUGHT | 942.00       | 2024-09-07 18:21:02  |
+| 2  | 23     | PNT    | BOUGHT | 1000.00      | 2024-09-07 18:22:32  |
+| 3  | 83     | MBU    | BOUGHT | 600.00       | 2024-09-07 18:25:34  |
+| 4  | 51     | UUE    | BOUGHT | 343.00       | 2024-09-07 18:28:25  |
+| 5  | 26     | PEW    | BOUGHT | 799.00       | 2024-09-07 18:28:28  |
+| 6  | 50     | SIC    | SOLD   | 566.00       | 2024-09-07 18:28:29  |
+| 7  | 55     | JZI    | SOLD   | 455.00       | 2024-09-07 18:28:30  |
+| 8  | 50     | YOG    | BOUGHT | 511.00       | 2024-09-07 18:33:39  |
+| 9  | 89     | DNJ    | SOLD   | 234.00       | 2024-09-07 18:33:43  |
+| 10 | 12     | OEC    | SOLD   | 532.00       | 2024-09-07 18:34:05  |
+| 11 | 41     | CMP    | SELL   | 909.00       | 2024-09-07 18:55:39  |
+| 12 | 56     | SMO    | SELL   | 311.00       | 2024-09-07 19:00:12  |
+| 13 | 89     | WXA    | BOUGHT | 685.00       | 2024-09-07 20:42:11  |
+| 14 | 12     | DHN    | BOUGHT | 12423.00     | 2024-09-07 21:12:09  |
+| 15 | 15     | ATM    | BOUGHT | 444.00       | 2024-09-07 21:18:25  |
+
+[Sun Sep 08 23:56:27 2024]::[MAIN] handleEditTrade::No trade records found for user id [1123]
+[Sun Sep 08 23:58:14 2024]::[MAIN] handleAdminMenu::printing list of trades by user id [1123]
+[Sun Sep 08 23:58:14 2024]::[MAIN] 
++----+----------------------------------------------------------------+
+| Id | Shares | Symbol |  Order | Total Amount | Date                 |
++----+----------------------------------------------------------------+
+| 1  | 14     | PRV    | BOUGHT | 942.00       | 2024-09-07 18:21:02  |
+| 2  | 23     | PNT    | BOUGHT | 1000.00      | 2024-09-07 18:22:32  |
+| 3  | 83     | MBU    | BOUGHT | 600.00       | 2024-09-07 18:25:34  |
+| 4  | 51     | UUE    | BOUGHT | 343.00       | 2024-09-07 18:28:25  |
+| 5  | 26     | PEW    | BOUGHT | 799.00       | 2024-09-07 18:28:28  |
+| 6  | 50     | SIC    | SOLD   | 566.00       | 2024-09-07 18:28:29  |
+| 7  | 55     | JZI    | SOLD   | 455.00       | 2024-09-07 18:28:30  |
+| 8  | 50     | YOG    | BOUGHT | 511.00       | 2024-09-07 18:33:39  |
+| 9  | 89     | DNJ    | SOLD   | 234.00       | 2024-09-07 18:33:43  |
+| 10 | 12     | OEC    | SOLD   | 532.00       | 2024-09-07 18:34:05  |
+| 11 | 41     | CMP    | SELL   | 909.00       | 2024-09-07 18:55:39  |
+| 12 | 56     | SMO    | SELL   | 311.00       | 2024-09-07 19:00:12  |
+| 13 | 89     | WXA    | BOUGHT | 685.00       | 2024-09-07 20:42:11  |
+| 14 | 12     | DHN    | BOUGHT | 12423.00     | 2024-09-07 21:12:09  |
+| 15 | 15     | ATM    | BOUGHT | 444.00       | 2024-09-07 21:18:25  |
+
+[Sun Sep 08 23:58:18 2024]::[MAIN] handleEditTrade::No trade records found for user id [1123]
+[Sun Sep 08 23:58:45 2024]::[MAIN] handleAdminMenu::printing list of trades by user id [1123]
+[Sun Sep 08 23:58:45 2024]::[MAIN] 
++----+----------------------------------------------------------------+
+| Id | Shares | Symbol |  Order | Total Amount | Date                 |
++----+----------------------------------------------------------------+
+| 1  | 14     | PRV    | BOUGHT | 942.00       | 2024-09-07 18:21:02  |
+| 2  | 23     | PNT    | BOUGHT | 1000.00      | 2024-09-07 18:22:32  |
+| 3  | 83     | MBU    | BOUGHT | 600.00       | 2024-09-07 18:25:34  |
+| 4  | 51     | UUE    | BOUGHT | 343.00       | 2024-09-07 18:28:25  |
+| 5  | 26     | PEW    | BOUGHT | 799.00       | 2024-09-07 18:28:28  |
+| 6  | 50     | SIC    | SOLD   | 566.00       | 2024-09-07 18:28:29  |
+| 7  | 55     | JZI    | SOLD   | 455.00       | 2024-09-07 18:28:30  |
+| 8  | 50     | YOG    | BOUGHT | 511.00       | 2024-09-07 18:33:39  |
+| 9  | 89     | DNJ    | SOLD   | 234.00       | 2024-09-07 18:33:43  |
+| 10 | 12     | OEC    | SOLD   | 532.00       | 2024-09-07 18:34:05  |
+| 11 | 41     | CMP    | SELL   | 909.00       | 2024-09-07 18:55:39  |
+| 12 | 56     | SMO    | SELL   | 311.00       | 2024-09-07 19:00:12  |
+| 13 | 89     | WXA    | BOUGHT | 685.00       | 2024-09-07 20:42:11  |
+| 14 | 12     | DHN    | BOUGHT | 12423.00     | 2024-09-07 21:12:09  |
+| 15 | 15     | ATM    | BOUGHT | 444.00       | 2024-09-07 21:18:25  |
+
+[Sun Sep 08 23:58:59 2024]::[MAIN] handleEditTrade::printing details of trade:[2] by user id [1123]
+[Sun Sep 08 23:58:59 2024]::[MAIN] 
++----+----------------------------------------------------------------+
+| Id | Shares | Symbol |  Order | Total Amount | Date                 |
++----+----------------------------------------------------------------+
+| 2  | 23     | PNT    | BOUGHT | 1000.00      | 2024-09-07 18:22:32  |
+
+[Mon Sep 09 00:00:49 2024]::[MAIN] handleAdminMenu::printing list of trades by user id [1123]
+[Mon Sep 09 00:00:49 2024]::[MAIN] 
++----+----------------------------------------------------------------+
+| Id | Shares | Symbol |  Order | Total Amount | Date                 |
++----+----------------------------------------------------------------+
+| 1  | 14     | PRV    | BOUGHT | 942.00       | 2024-09-07 18:21:02  |
+| 2  | 23     | PNT    | BOUGHT | 1000.00      | 2024-09-07 18:22:32  |
+| 3  | 83     | MBU    | BOUGHT | 600.00       | 2024-09-07 18:25:34  |
+| 4  | 51     | UUE    | BOUGHT | 343.00       | 2024-09-07 18:28:25  |
+| 5  | 26     | PEW    | BOUGHT | 799.00       | 2024-09-07 18:28:28  |
+| 6  | 50     | SIC    | SOLD   | 566.00       | 2024-09-07 18:28:29  |
+| 7  | 55     | JZI    | SOLD   | 455.00       | 2024-09-07 18:28:30  |
+| 8  | 50     | YOG    | BOUGHT | 511.00       | 2024-09-07 18:33:39  |
+| 9  | 89     | DNJ    | SOLD   | 234.00       | 2024-09-07 18:33:43  |
+| 10 | 12     | OEC    | SOLD   | 532.00       | 2024-09-07 18:34:05  |
+| 11 | 41     | CMP    | SELL   | 909.00       | 2024-09-07 18:55:39  |
+| 12 | 56     | SMO    | SELL   | 311.00       | 2024-09-07 19:00:12  |
+| 13 | 89     | WXA    | BOUGHT | 685.00       | 2024-09-07 20:42:11  |
+| 14 | 12     | DHN    | BOUGHT | 12423.00     | 2024-09-07 21:12:09  |
+| 15 | 15     | ATM    | BOUGHT | 444.00       | 2024-09-07 21:18:25  |
+
+[Mon Sep 09 00:01:02 2024]::[MAIN] handleEditTrade::No trade records found for user id [1123]
+[Mon Sep 09 00:03:49 2024]::[MAIN] handleAdminMenu::printing list of trades by user id [1123]
+[Mon Sep 09 00:03:49 2024]::[MAIN] 
++----+----------------------------------------------------------------+
+| Id | Shares | Symbol |  Order | Total Amount | Date                 |
++----+----------------------------------------------------------------+
+| 1  | 14     | PRV    | BOUGHT | 942.00       | 2024-09-07 18:21:02  |
+| 2  | 23     | PNT    | BOUGHT | 1000.00      | 2024-09-07 18:22:32  |
+| 3  | 83     | MBU    | BOUGHT | 600.00       | 2024-09-07 18:25:34  |
+| 4  | 51     | UUE    | BOUGHT | 343.00       | 2024-09-07 18:28:25  |
+| 5  | 26     | PEW    | BOUGHT | 799.00       | 2024-09-07 18:28:28  |
+| 6  | 50     | SIC    | SOLD   | 566.00       | 2024-09-07 18:28:29  |
+| 7  | 55     | JZI    | SOLD   | 455.00       | 2024-09-07 18:28:30  |
+| 8  | 50     | YOG    | BOUGHT | 511.00       | 2024-09-07 18:33:39  |
+| 9  | 89     | DNJ    | SOLD   | 234.00       | 2024-09-07 18:33:43  |
+| 10 | 12     | OEC    | SOLD   | 532.00       | 2024-09-07 18:34:05  |
+| 11 | 41     | CMP    | SELL   | 909.00       | 2024-09-07 18:55:39  |
+| 12 | 56     | SMO    | SELL   | 311.00       | 2024-09-07 19:00:12  |
+| 13 | 89     | WXA    | BOUGHT | 685.00       | 2024-09-07 20:42:11  |
+| 14 | 12     | DHN    | BOUGHT | 12423.00     | 2024-09-07 21:12:09  |
+| 15 | 15     | ATM    | BOUGHT | 444.00       | 2024-09-07 21:18:25  |
+
+[Mon Sep 09 00:03:54 2024]::[MAIN] handleEditTrade::No trade records found for user id [1123]

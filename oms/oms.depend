@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1725877081 source:d:\xo\oms\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<unistd.h>
+	"inc/mysql_conn.h"
+	"inc/user.h"
+	"inc/menu.h"
+	"inc/trade.h"
+	"inc/utilities.h"
+	"inc/logger.h"
+	"inc/handler.h"
+	"inc/datastruct.h"
+
+1725866785 d:\xo\oms\inc\mysql_conn.h
+	<stdio.h>
+	<mysql.h>
+	"logger.h"
+
+1499907332 d:\xo\include\mysql.h
+	<sys/types.h>
+	<windows.h>
+	<winsock2.h>
+	"mysql_version.h"
+	"mysql_com.h"
+	"mysql_time.h"
+	"my_list.h"
+	"mysql/client_plugin.h"
+	"typelib.h"
+	"my_alloc.h"
+
+1499923752 d:\xo\include\mysql_version.h
+	<custom_conf.h>
+
+1499907332 d:\xo\include\mysql_com.h
+	"binary_log_types.h"
+	"my_command.h"
+
+1499907332 d:\xo\include\binary_log_types.h
+
+1499907332 d:\xo\include\my_command.h
+
+1499907332 d:\xo\include\mysql_time.h
+
+1499907332 d:\xo\include\my_list.h
+
+1499907332 d:\xo\include\mysql\client_plugin.h
+	<stdarg.h>
+	<stdlib.h>
+	"plugin_auth_common.h"
+
+1499907332 d:\xo\include\mysql\plugin_auth_common.h
+	<windows.h>
+
+1499907332 d:\xo\include\typelib.h
+	"my_alloc.h"
+
+1499907332 d:\xo\include\my_alloc.h
+	"mysql/psi/psi_memory.h"
+
+1499907332 d:\xo\include\mysql\psi\psi_memory.h
+	"psi_base.h"
+
+1499907332 d:\xo\include\mysql\psi\psi_base.h
+
+1725876702 d:\xo\oms\inc\user.h
+	<mysql.h>
+	<stdio.h>
+	<string.h>
+	"datastruct.h"
+
+1725856645 d:\xo\oms\inc\datastruct.h
+
+1725876847 d:\xo\oms\inc\menu.h
+
+1725867419 d:\xo\oms\inc\trade.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<mysql.h>
+	"datastruct.h"
+
+1725866560 d:\xo\oms\inc\utilities.h
+	<time.h>
+
+1725867261 d:\xo\oms\inc\logger.h
+	"utilities.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1725877055 d:\xo\oms\inc\handler.h
+
+1725866620 source:d:\xo\oms\src\utilities.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<unistd.h>
+	"../inc/utilities.h"
+
+1725866926 source:d:\xo\oms\src\mysql_conn.c
+	"../inc/mysql_conn.h"
+	"../inc/logger.h"
+
+1725867196 source:d:\xo\oms\src\logger.c
+	"../inc/logger.h"
+
+1725867413 source:d:\xo\oms\src\trade.c
+	"../inc/trade.h"
+
+1725876707 source:d:\xo\oms\src\user.c
+	"../inc/user.h"
+
+1725876017 source:d:\xo\oms\src\handler.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<unistd.h>
+	"../inc/mysql_conn.h"
+	"../inc/user.h"
+	"../inc/menu.h"
+	"../inc/trade.h"
+	"../inc/utilities.h"
+	"../inc/logger.h"
+	"../inc/handler.h"
+
+1725876843 source:d:\xo\oms\src\menu.c
+	<stdio.h>
+	<string.h>
+	"../inc/menu.h"
+

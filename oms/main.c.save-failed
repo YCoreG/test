@@ -1,0 +1,83 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include "mysql_conn.h"
+
+void show_menu() {
+    printf("\n--- User System ---\n");
+    printf("1. Sign In\n");
+    printf("2. Register\n");
+    printf("3. Exit\n");
+    printf("Select an option: ");
+}
+
+
+int main()
+{
+    int option;
+    int user_id, age;
+    char name[64];
+
+    MYSQL *conn = connect_db();
+    if (conn == NULL) {
+        return 1; // Connection failed
+    }
+    while (1) {
+        show_menu();
+        scanf("%d", &option);
+
+        switch (option) {
+            case 1:
+                // Sign In
+                printf("Enter User ID: ");
+                scanf("%d", &user_id);
+                /*
+                if (!sign_in(conn, user_id)) {
+                    printf("Sign-in failed. User ID not found.\n");
+                }
+                */
+
+                printf("Sign-in failed. User ID not found.\n");
+                break;
+
+            case 2:
+                // Register New User
+                //printf("Enter User ID: ");
+                //scanf("%d", &user_id);
+                printf("Enter Name: \n");
+                scanf("%s", name);
+                printf("Enter Age: ");
+                scanf("%d", &age);
+
+                //combine name and age for UserID;
+
+                /*
+                if (!register_user(conn, user_id, name, age)) {
+                    printf("User registration failed.\n");
+                }
+                */
+                printf("User registration\n");
+                break;
+
+            case 3:
+                // Exit
+                printf("Exiting...\n");
+                close_db(conn);
+                return 0;
+
+            default:
+                printf("Invalid option. Please try again.\n");
+        }
+        return 0;
+    }
+
+
+    // Prompt the user to enter user id;
+
+
+
+
+
+    close_db(conn);
+    return 0;
+
+}

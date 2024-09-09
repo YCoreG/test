@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="oms" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/oms" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=gnu++17" />
+					<Add option="-g" />
+					<Add directory="../include" />
+				</Compiler>
+				<Linker>
+					<Add library="../lib/libmysql.lib" />
+					<Add directory="../lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/oms" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-std=gnu++17" />
+		</Compiler>
+		<Linker>
+			<Add library="../lib/libmysql.lib" />
+		</Linker>
+		<Unit filename="inc/datastruct.h" />
+		<Unit filename="inc/handler.h" />
+		<Unit filename="inc/logger.h" />
+		<Unit filename="inc/menu.h" />
+		<Unit filename="inc/mysql_conn.h" />
+		<Unit filename="inc/trade.h" />
+		<Unit filename="inc/user.h" />
+		<Unit filename="inc/utilities.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/logger.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/mysql_conn.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/trade.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/user.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/utilities.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
